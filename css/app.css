@@ -1,0 +1,270 @@
+body{
+ margin: 0px;
+    
+}
+
+
+
+.Fondo img{
+  width: 100%;
+  height: 500px;
+  margin: 0%; 
+  filter: brightness(50%);
+  
+}
+
+ .TituloContenido {
+  max-width: 780px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.TituloContenido h1{
+  font-size: 60px;
+  color: white;
+  text-align: center;
+  margin-top: -160px;
+  font-family: 'Roboto Slab', serif;
+
+}
+
+.TituloContenido p{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 0%;
+  font-size: 18px; 
+}
+
+
+
+.FotoPerfil  img{
+  display: block; 
+  margin: auto; 
+  border-radius: 50%;
+  max-width: 100px;
+  margin-top: -50px;
+  position: relative;
+}
+
+.FotoPerfil .NombrePerfil{
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+
+}
+ 
+.FotoPerfil .NombrePerfil h1{
+  font-size: 18px;
+}
+
+.FotoPerfil .NombrePerfil p{
+  font-style: italic;
+  margin-top: -1px;
+}
+
+hr{
+  margin-top: 10px;
+  width: 10%;
+  color: #e6e6e6;
+  margin-bottom: 60px;
+}
+
+/* ------------------------------------ */
+.ContenidoSubtitulo1 {
+  text-align: left;
+  font-family: 'Roboto Slab', serif;
+}
+
+.ContenidoSubtitulo1 .Subtitulo{
+  margin-left: 16.665%;
+  margin-right: 16.665%;
+}
+
+
+.ContenidoSubtitulo1 .Subtitulo h2{
+  color: rgba(0, 0, 0, 0.25);
+  margin-left: -6.665%;
+  font-size: 36px; 
+}
+
+.ContenidoSubtitulo1 .Subtitulo h1{
+  margin-top: -75px;
+  color: rgb(51, 51, 51);
+  font-size: 36px; 
+}
+
+.ContenidoSubtitulo1 .Subtitulo h3{
+  color: #42b4d6;
+  font-size: 18px;
+  margin-top: -25px;
+  margin-bottom: 20px;
+}
+
+.ContenidoSubtitulo1 .Subtitulo p{
+  color: rgb(51, 51, 51);
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+.ContenidoSubtitulo1 .Subtitulo h4{
+  font-style: bold;
+  font-size: 18px;
+  margin-bottom: 20px; 
+}
+
+.ContenidoSubtitulo1 .Subtitulo img{
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 120px;
+}
+
+/* ----------------------------- */
+.ContenidoSubtitulo2 {
+  text-align: left;
+  font-family: 'Roboto Slab', serif;
+}
+
+.ContenidoSubtitulo2 .Subtitulo{
+  margin-left: 16.665%;
+  margin-right: 16.665%;
+}
+
+
+.ContenidoSubtitulo2 .Subtitulo h2{
+  color: rgba(0, 0, 0, 0.25);
+  margin-left: -6.665%;
+  font-size: 36px; 
+}
+
+.ContenidoSubtitulo2 .Subtitulo h1{
+  margin-top: -75px;
+  color: rgb(51, 51, 51);
+  font-size: 36px; 
+}
+
+.ContenidoSubtitulo2 .Subtitulo h3{
+  color: #42b4d6;
+  font-size: 18px;
+  margin-top: -25px;
+  margin-bottom: 20px;
+}
+
+.ContenidoSubtitulo2 .Subtitulo p{
+  color: rgb(51, 51, 51);
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+.ContenidoSubtitulo2 .Subtitulo h4{
+  font-style: bold;
+  font-size: 18px;
+  margin-bottom: 20px; 
+}
+
+.ContenidoSubtitulo2 .Subtitulo img{
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 120px;
+}
+
+/* -------------------------------- */
+
+.ContenidoSubtitulo3 {
+  text-align: left;
+  font-family: 'Roboto Slab', serif;
+}
+
+.ContenidoSubtitulo3 .Subtitulo{
+  margin-left: 16.665%;
+  margin-right: 16.665%;
+}
+
+
+.ContenidoSubtitulo3 .Subtitulo h2{
+  color: rgba(0, 0, 0, 0.25);
+  margin-left: -6.665%;
+  font-size: 36px; 
+}
+
+.ContenidoSubtitulo3 .Subtitulo h1{
+  margin-top: -75px;
+  color: rgb(51, 51, 51);
+  font-size: 36px; 
+}
+
+.ContenidoSubtitulo3 .Subtitulo h3{
+  color: #42b4d6;
+  font-size: 18px;
+  margin-top: -25px;
+  margin-bottom: 20px;
+}
+
+.ContenidoSubtitulo3 .Subtitulo p{
+  color: rgb(51, 51, 51);
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+.ContenidoSubtitulo3 .Subtitulo h4{
+  font-style: bold;
+  font-size: 18px;
+  margin-bottom: 20px; 
+}
+
+.ContenidoSubtitulo3 .Subtitulo img{
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 120px;
+}
+
+
+/* --------------------------- */
+
+.ContenidoSubtitulo4 {
+  text-align: left;
+  font-family: 'Roboto Slab', serif;
+}
+
+.ContenidoSubtitulo4 .Subtitulo{
+  margin-left: 16.665%;
+  margin-right: 16.665%;
+}
+
+
+.ContenidoSubtitulo4 .Subtitulo h2{
+  color: rgba(0, 0, 0, 0.25);
+  margin-left: -6.665%;
+  font-size: 36px; 
+}
+
+.ContenidoSubtitulo4 .Subtitulo h1{
+  margin-top: -75px;
+  color: rgb(51, 51, 51);
+  font-size: 36px; 
+}
+
+.ContenidoSubtitulo4 .Subtitulo h3{
+  color: #42b4d6;
+  font-size: 18px;
+  margin-top: -25px;
+  margin-bottom: 20px;
+}
+
+.ContenidoSubtitulo4 .Subtitulo p{
+  color: rgb(51, 51, 51);
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+.ContenidoSubtitulo4 .Subtitulo h4{
+  font-style: bold;
+  font-size: 18px;
+  margin-bottom: 20px; 
+}
+
+.ContenidoSubtitulo4 .Subtitulo img{
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 120px;
+}
